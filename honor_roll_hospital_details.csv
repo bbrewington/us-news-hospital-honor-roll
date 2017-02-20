@@ -1,0 +1,404 @@
+Specialty,National Rank,Overall Score,ranking_type,hospital
+Cancer,#3,91.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Cardiology & Heart Surgery,#2,96.7/100,adult,"Mayo Clinic, Rochester, Minn."
+Diabetes & Endocrinology,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+"Ear, Nose & Throat",#2,96.5/100,adult,"Mayo Clinic, Rochester, Minn."
+Gastroenterology & GI Surgery,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Geriatrics,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Gynecology,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Nephrology,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Neurology & Neurosurgery,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Orthopedics,#2,86.9/100,adult,"Mayo Clinic, Rochester, Minn."
+Psychiatry,#8,8.8/100,adult,"Mayo Clinic, Rochester, Minn."
+Pulmonology,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Rehabilitation,#6,18.6/100,adult,"Mayo Clinic, Rochester, Minn."
+Rheumatology,#4,36.4/100,adult,"Mayo Clinic, Rochester, Minn."
+Urology,#1,100.0/100,adult,"Mayo Clinic, Rochester, Minn."
+Ophthalmology,High Performing,4.1/100,adult,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Cancer,#31,64.2/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Cardiology & Heart Surgery,#27,62.1/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Diabetes & Endocrinology,#18,75.0/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Gastroenterology & GI Surgery,#47,52.1/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Neurology & Neurosurgery,#28,73.6/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Orthopedics,#33,69.9/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Pulmonology,#43,50.7/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Urology,#43,57.9/100,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Neonatology,Not Ranked,NA,children,"Mayo Clinic, Rochester, Minn."
+Pediatrics: Nephrology,Not Ranked,NA,children,"Mayo Clinic, Rochester, Minn."
+Cancer,#8,73.8/100,adult,Cleveland Clinic
+Cardiology & Heart Surgery,#1,100.0/100,adult,Cleveland Clinic
+Diabetes & Endocrinology,#3,83.9/100,adult,Cleveland Clinic
+"Ear, Nose & Throat",#12,84.8/100,adult,Cleveland Clinic
+Gastroenterology & GI Surgery,#2,89.1/100,adult,Cleveland Clinic
+Geriatrics,#8,86.7/100,adult,Cleveland Clinic
+Gynecology,#3,91.0/100,adult,Cleveland Clinic
+Nephrology,#2,96.6/100,adult,Cleveland Clinic
+Neurology & Neurosurgery,#6,84.2/100,adult,Cleveland Clinic
+Ophthalmology,#8,8.8/100,adult,Cleveland Clinic
+Orthopedics,#3,76.7/100,adult,Cleveland Clinic
+Pulmonology,#3,87.8/100,adult,Cleveland Clinic
+Rheumatology,#3,39.8/100,adult,Cleveland Clinic
+Urology,#2,99.2/100,adult,Cleveland Clinic
+Rehabilitation,High Performing,3.7/100,adult,Cleveland Clinic
+Psychiatry,Not Ranked,2.5/100,adult,Cleveland Clinic
+Pediatrics: Cancer,#39,61.2/100,children,Cleveland Clinic
+Pediatrics: Cardiology & Heart Surgery,#23,65.5/100,children,Cleveland Clinic
+Pediatrics: Diabetes & Endocrinology,#46,65.9/100,children,Cleveland Clinic
+Pediatrics: Gastroenterology & GI Surgery,#19,72.5/100,children,Cleveland Clinic
+Pediatrics: Nephrology,#37,67.4/100,children,Cleveland Clinic
+Pediatrics: Neurology & Neurosurgery,#19,79.6/100,children,Cleveland Clinic
+Pediatrics: Orthopedics,#27,72.1/100,children,Cleveland Clinic
+Pediatrics: Pulmonology,#23,60.3/100,children,Cleveland Clinic
+Pediatrics: Urology,#26,67.3/100,children,Cleveland Clinic
+Pediatrics: Neonatology,Not Ranked,NA,children,Cleveland Clinic
+Cancer,#11,70.6/100,adult,"Massachusetts General Hospital, Boston"
+Cardiology & Heart Surgery,#4,78.2/100,adult,"Massachusetts General Hospital, Boston"
+Diabetes & Endocrinology,#2,85.1/100,adult,"Massachusetts General Hospital, Boston"
+"Ear, Nose & Throat",#1,100.0/100,adult,"Massachusetts General Hospital, Boston"
+Gastroenterology & GI Surgery,#4,77.0/100,adult,"Massachusetts General Hospital, Boston"
+Geriatrics,#6,87.5/100,adult,"Massachusetts General Hospital, Boston"
+Gynecology,#5,88.5/100,adult,"Massachusetts General Hospital, Boston"
+Nephrology,#6,83.0/100,adult,"Massachusetts General Hospital, Boston"
+Neurology & Neurosurgery,#4,86.2/100,adult,"Massachusetts General Hospital, Boston"
+Ophthalmology,#4,33.2/100,adult,"Massachusetts General Hospital, Boston"
+Orthopedics,#8,68.4/100,adult,"Massachusetts General Hospital, Boston"
+Psychiatry,#1,22.7/100,adult,"Massachusetts General Hospital, Boston"
+Pulmonology,#4,82.4/100,adult,"Massachusetts General Hospital, Boston"
+Rehabilitation,#5,19.5/100,adult,"Massachusetts General Hospital, Boston"
+Rheumatology,#7,16.5/100,adult,"Massachusetts General Hospital, Boston"
+Urology,#26,72.5/100,adult,"Massachusetts General Hospital, Boston"
+Pediatrics: Diabetes & Endocrinology,#33,70.9/100,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Gastroenterology & GI Surgery,#22,70.6/100,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Nephrology,#50,62.7/100,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Neurology & Neurosurgery,#45,64.0/100,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Pulmonology,#37,54.5/100,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Cancer,Not Ranked,NA,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Cardiology & Heart Surgery,Not Ranked,NA,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Neonatology,Not Ranked,NA,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Orthopedics,Not Ranked,NA,children,"Massachusetts General Hospital, Boston"
+Pediatrics: Urology,Not Ranked,NA,children,"Massachusetts General Hospital, Boston"
+Cancer,#9,72.7/100,adult,"Johns Hopkins Hospital, Baltimore"
+Cardiology & Heart Surgery,#9,72.7/100,adult,"Johns Hopkins Hospital, Baltimore"
+Diabetes & Endocrinology,#4,80.8/100,adult,"Johns Hopkins Hospital, Baltimore"
+"Ear, Nose & Throat",#3,95.7/100,adult,"Johns Hopkins Hospital, Baltimore"
+Gastroenterology & GI Surgery,#3,77.1/100,adult,"Johns Hopkins Hospital, Baltimore"
+Geriatrics,#4,92.2/100,adult,"Johns Hopkins Hospital, Baltimore"
+Gynecology,#7,87.4/100,adult,"Johns Hopkins Hospital, Baltimore"
+Nephrology,#5,89.3/100,adult,"Johns Hopkins Hospital, Baltimore"
+Neurology & Neurosurgery,#2,92.2/100,adult,"Johns Hopkins Hospital, Baltimore"
+Ophthalmology,#3,50.1/100,adult,"Johns Hopkins Hospital, Baltimore"
+Orthopedics,#9,65.7/100,adult,"Johns Hopkins Hospital, Baltimore"
+Psychiatry,#4,19.4/100,adult,"Johns Hopkins Hospital, Baltimore"
+Pulmonology,#13,73.9/100,adult,"Johns Hopkins Hospital, Baltimore"
+Rheumatology,#1,45.4/100,adult,"Johns Hopkins Hospital, Baltimore"
+Urology,#4,87.8/100,adult,"Johns Hopkins Hospital, Baltimore"
+Rehabilitation,Not Ranked,2.6/100,adult,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Cancer,#5,91.5/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Cardiology & Heart Surgery,#28,61.7/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Diabetes & Endocrinology,#15,76.6/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Gastroenterology & GI Surgery,#16,76.4/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Neonatology,#19,76.5/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Nephrology,#14,80.0/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Neurology & Neurosurgery,#7,86.6/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Orthopedics,#10,80.2/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Pulmonology,#10,80.8/100,children,"Johns Hopkins Hospital, Baltimore"
+Pediatrics: Urology,#11,81.3/100,children,"Johns Hopkins Hospital, Baltimore"
+Cancer,#5,75.2/100,adult,UCLA Medical Center
+Cardiology & Heart Surgery,#12,70.4/100,adult,UCLA Medical Center
+Diabetes & Endocrinology,#27,65.9/100,adult,UCLA Medical Center
+"Ear, Nose & Throat",#4,88.7/100,adult,UCLA Medical Center
+Gastroenterology & GI Surgery,#5,74.3/100,adult,UCLA Medical Center
+Geriatrics,#2,95.8/100,adult,UCLA Medical Center
+Gynecology,#10,84.7/100,adult,UCLA Medical Center
+Nephrology,#7,82.7/100,adult,UCLA Medical Center
+Neurology & Neurosurgery,#8,79.8/100,adult,UCLA Medical Center
+Ophthalmology,#5,26.8/100,adult,UCLA Medical Center
+Orthopedics,#18,62.6/100,adult,UCLA Medical Center
+Psychiatry,#7,13.6/100,adult,UCLA Medical Center
+Pulmonology,#9,76.0/100,adult,UCLA Medical Center
+Rheumatology,#6,20.1/100,adult,UCLA Medical Center
+Urology,#3,89.2/100,adult,UCLA Medical Center
+Pediatrics: Cancer,#26,68.7/100,children,UCLA Medical Center
+Pediatrics: Cardiology & Heart Surgery,#25,64.0/100,children,UCLA Medical Center
+Pediatrics: Diabetes & Endocrinology,#21,74.8/100,children,UCLA Medical Center
+Pediatrics: Gastroenterology & GI Surgery,#25,68.7/100,children,UCLA Medical Center
+Pediatrics: Neonatology,#37,66.9/100,children,UCLA Medical Center
+Pediatrics: Nephrology,#8,88.1/100,children,UCLA Medical Center
+Pediatrics: Neurology & Neurosurgery,#31,71.7/100,children,UCLA Medical Center
+Pediatrics: Orthopedics,#19,76.4/100,children,UCLA Medical Center
+Pediatrics: Pulmonology,#39,53.3/100,children,UCLA Medical Center
+Pediatrics: Urology,#32,62.0/100,children,UCLA Medical Center
+Cancer,#17,66.8/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Cardiology & Heart Surgery,#3,83.2/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Diabetes & Endocrinology,#5,80.6/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+"Ear, Nose & Throat",#38,70.7/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Gastroenterology & GI Surgery,#14,68.9/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Geriatrics,#7,87.4/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Gynecology,#25,79.2/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Nephrology,#4,90.6/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Neurology & Neurosurgery,#3,87.0/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Orthopedics,#44,56.5/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Psychiatry,#3,20.4/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Pulmonology,#8,76.1/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Rehabilitation,#12,5.9/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Rheumatology,#2,40.9/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Urology,#6,83.7/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Ophthalmology,Not Ranked,2.0/100,adult,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Cancer,#31,64.2/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Cardiology & Heart Surgery,#13,76.5/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Diabetes & Endocrinology,#9,85.9/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Gastroenterology & GI Surgery,#21,70.7/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Neonatology,#9,83.7/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Nephrology,#47,65.1/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Neurology & Neurosurgery,#23,75.5/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Orthopedics,#34,69.4/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Pulmonology,#14,70.8/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Pediatrics: Urology,#28,65.6/100,children,New York-Presbyterian University Hospital of Columbia and Cornell
+Cancer,#10,71.8/100,adult,"UCSF Medical Center, San Francisco"
+Cardiology & Heart Surgery,#45,58.4/100,adult,"UCSF Medical Center, San Francisco"
+Diabetes & Endocrinology,#6,78.6/100,adult,"UCSF Medical Center, San Francisco"
+"Ear, Nose & Throat",#11,85.0/100,adult,"UCSF Medical Center, San Francisco"
+Gastroenterology & GI Surgery,#15,68.1/100,adult,"UCSF Medical Center, San Francisco"
+Geriatrics,#15,76.6/100,adult,"UCSF Medical Center, San Francisco"
+Gynecology,#4,90.3/100,adult,"UCSF Medical Center, San Francisco"
+Nephrology,#3,91.4/100,adult,"UCSF Medical Center, San Francisco"
+Neurology & Neurosurgery,#5,85.1/100,adult,"UCSF Medical Center, San Francisco"
+Ophthalmology,#12,5.3/100,adult,"UCSF Medical Center, San Francisco"
+Orthopedics,#10,65.3/100,adult,"UCSF Medical Center, San Francisco"
+Psychiatry,#12,5.2/100,adult,"UCSF Medical Center, San Francisco"
+Pulmonology,#19,72.6/100,adult,"UCSF Medical Center, San Francisco"
+Rheumatology,#10,12.5/100,adult,"UCSF Medical Center, San Francisco"
+Urology,#7,82.1/100,adult,"UCSF Medical Center, San Francisco"
+Pediatrics: Cancer,#16,76.5/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Cardiology & Heart Surgery,#38,54.6/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Diabetes & Endocrinology,#10,85.0/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Gastroenterology & GI Surgery,#18,73.2/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Neonatology,#17,77.5/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Nephrology,#16,77.0/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Neurology & Neurosurgery,#21,78.4/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Orthopedics,#47,66.6/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Pulmonology,#25,59.1/100,children,"UCSF Medical Center, San Francisco"
+Pediatrics: Urology,#15,73.0/100,children,"UCSF Medical Center, San Francisco"
+Cancer,#14,68.6/100,adult,"Northwestern Memorial Hospital, Chicago"
+Cardiology & Heart Surgery,#6,75.4/100,adult,"Northwestern Memorial Hospital, Chicago"
+Diabetes & Endocrinology,#11,69.4/100,adult,"Northwestern Memorial Hospital, Chicago"
+"Ear, Nose & Throat",#44,69.8/100,adult,"Northwestern Memorial Hospital, Chicago"
+Gastroenterology & GI Surgery,#16,68.0/100,adult,"Northwestern Memorial Hospital, Chicago"
+Geriatrics,#9,82.5/100,adult,"Northwestern Memorial Hospital, Chicago"
+Gynecology,#31,77.9/100,adult,"Northwestern Memorial Hospital, Chicago"
+Nephrology,#14,79.1/100,adult,"Northwestern Memorial Hospital, Chicago"
+Neurology & Neurosurgery,#9,77.2/100,adult,"Northwestern Memorial Hospital, Chicago"
+Orthopedics,#6,69.1/100,adult,"Northwestern Memorial Hospital, Chicago"
+Pulmonology,#17,72.9/100,adult,"Northwestern Memorial Hospital, Chicago"
+Rheumatology,#15,5.9/100,adult,"Northwestern Memorial Hospital, Chicago"
+Urology,#11,79.9/100,adult,"Northwestern Memorial Hospital, Chicago"
+Ophthalmology,Not Ranked,2.3/100,adult,"Northwestern Memorial Hospital, Chicago"
+Psychiatry,Not Ranked,1.3/100,adult,"Northwestern Memorial Hospital, Chicago"
+Pediatrics: Neonatology,#6,84.9/100,children,"Northwestern Memorial Hospital, Chicago"
+Cancer,#12,69.4/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Cardiology & Heart Surgery,#13,69.6/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Diabetes & Endocrinology,#9,70.6/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+"Ear, Nose & Throat",#10,85.6/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Gastroenterology & GI Surgery,#12,70.3/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Geriatrics,#14,77.5/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Nephrology,#17,78.3/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Neurology & Neurosurgery,#14,74.2/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Orthopedics,#21,62.2/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Pulmonology,#5,77.3/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Urology,#15,75.3/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Gynecology,High Performing,73.9/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Ophthalmology,High Performing,3.9/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Psychiatry,High Performing,4.3/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Rheumatology,High Performing,3.1/100,adult,"Hospitals of the University of Pennsylvania-Penn Presbyterian, Philadelphia"
+Cancer,#33,62.6/100,adult,"NYU Langone Medical Center, New York"
+Cardiology & Heart Surgery,#10,72.5/100,adult,"NYU Langone Medical Center, New York"
+Diabetes & Endocrinology,#20,66.7/100,adult,"NYU Langone Medical Center, New York"
+"Ear, Nose & Throat",#37,70.9/100,adult,"NYU Langone Medical Center, New York"
+Gastroenterology & GI Surgery,#13,69.0/100,adult,"NYU Langone Medical Center, New York"
+Geriatrics,#5,88.4/100,adult,"NYU Langone Medical Center, New York"
+Neurology & Neurosurgery,#7,82.3/100,adult,"NYU Langone Medical Center, New York"
+Orthopedics,#5,72.1/100,adult,"NYU Langone Medical Center, New York"
+Pulmonology,#14,73.7/100,adult,"NYU Langone Medical Center, New York"
+Rehabilitation,#9,9.4/100,adult,"NYU Langone Medical Center, New York"
+Rheumatology,#8,15.8/100,adult,"NYU Langone Medical Center, New York"
+Urology,#10,80.4/100,adult,"NYU Langone Medical Center, New York"
+Nephrology,High Performing,68.0/100,adult,"NYU Langone Medical Center, New York"
+Psychiatry,High Performing,3.7/100,adult,"NYU Langone Medical Center, New York"
+Gynecology,Not Ranked,67.9/100,adult,"NYU Langone Medical Center, New York"
+Cancer,#15,68.5/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Cardiology & Heart Surgery,#14,69.0/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Diabetes & Endocrinology,#29,65.8/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+"Ear, Nose & Throat",#15,80.9/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Gastroenterology & GI Surgery,#29,64.7/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Geriatrics,#18,75.1/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Gynecology,#20,79.7/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Nephrology,#8,82.2/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Neurology & Neurosurgery,#10,77.1/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Orthopedics,#13,64.6/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Pulmonology,#10,75.7/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Urology,#14,76.0/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Ophthalmology,High Performing,4.2/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Rheumatology,High Performing,4.4/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Psychiatry,Not Ranked,1.8/100,adult,"Barnes-Jewish Hospital/Washington University, St. Louis"
+Cancer,#23,64.9/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Cardiology & Heart Surgery,#19,65.3/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Diabetes & Endocrinology,#32,65.2/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+"Ear, Nose & Throat",#6,87.7/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Gastroenterology & GI Surgery,#6,73.6/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Geriatrics,#12,78.9/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Nephrology,#33,74.4/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Neurology & Neurosurgery,#19,68.7/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Orthopedics,#11,64.7/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Psychiatry,#11,6.3/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Pulmonology,#7,76.8/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Rehabilitation,#11,7.7/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Rheumatology,#9,12.8/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Urology,#19,73.4/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Gynecology,Not Ranked,70.2/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Ophthalmology,Not Ranked,2.1/100,adult,"UPMC Presbyterian Shadyside, Pittsburgh"
+Cancer,#4,80.9/100,adult,"Brigham and Women's Hospital, Boston"
+Cardiology & Heart Surgery,#7,75.2/100,adult,"Brigham and Women's Hospital, Boston"
+Diabetes & Endocrinology,#17,67.2/100,adult,"Brigham and Women's Hospital, Boston"
+Gastroenterology & GI Surgery,#45,62.4/100,adult,"Brigham and Women's Hospital, Boston"
+Geriatrics,#24,72.4/100,adult,"Brigham and Women's Hospital, Boston"
+Gynecology,#6,88.3/100,adult,"Brigham and Women's Hospital, Boston"
+Nephrology,#21,76.6/100,adult,"Brigham and Women's Hospital, Boston"
+Neurology & Neurosurgery,#11,76.3/100,adult,"Brigham and Women's Hospital, Boston"
+Orthopedics,#26,59.8/100,adult,"Brigham and Women's Hospital, Boston"
+Pulmonology,#15,73.3/100,adult,"Brigham and Women's Hospital, Boston"
+Rheumatology,#5,23.3/100,adult,"Brigham and Women's Hospital, Boston"
+Urology,#28,72.3/100,adult,"Brigham and Women's Hospital, Boston"
+"Ear, Nose & Throat",Not Ranked,64.5/100,adult,"Brigham and Women's Hospital, Boston"
+Psychiatry,Not Ranked,2.7/100,adult,"Brigham and Women's Hospital, Boston"
+Cancer,#13,69.0/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Cardiology & Heart Surgery,#15,68.0/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Diabetes & Endocrinology,#7,73.7/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+"Ear, Nose & Throat",#13,83.4/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Gastroenterology & GI Surgery,#21,66.4/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Geriatrics,#22,73.1/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Gynecology,#8,85.7/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Nephrology,#36,73.2/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Neurology & Neurosurgery,#19,68.7/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Orthopedics,#17,62.9/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Rheumatology,#12,7.6/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Urology,#13,76.3/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Psychiatry,High Performing,3.0/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Pulmonology,High Performing,67.1/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Ophthalmology,Not Ranked,1.7/100,adult,"Stanford Health Care-Stanford Hospital, Stanford, Calif."
+Cancer,#38,61.4/100,adult,"Mount Sinai Hospital, New York"
+Cardiology & Heart Surgery,#8,75.0/100,adult,"Mount Sinai Hospital, New York"
+Diabetes & Endocrinology,#11,69.4/100,adult,"Mount Sinai Hospital, New York"
+"Ear, Nose & Throat",#20,77.1/100,adult,"Mount Sinai Hospital, New York"
+Gastroenterology & GI Surgery,#7,72.7/100,adult,"Mount Sinai Hospital, New York"
+Geriatrics,#3,94.3/100,adult,"Mount Sinai Hospital, New York"
+Nephrology,#11,79.6/100,adult,"Mount Sinai Hospital, New York"
+Neurology & Neurosurgery,#12,75.7/100,adult,"Mount Sinai Hospital, New York"
+Orthopedics,#42,56.6/100,adult,"Mount Sinai Hospital, New York"
+Pulmonology,#45,68.0/100,adult,"Mount Sinai Hospital, New York"
+Urology,#29,72.2/100,adult,"Mount Sinai Hospital, New York"
+Gynecology,High Performing,74.1/100,adult,"Mount Sinai Hospital, New York"
+Psychiatry,High Performing,4.5/100,adult,"Mount Sinai Hospital, New York"
+Rehabilitation,High Performing,3.8/100,adult,"Mount Sinai Hospital, New York"
+Rheumatology,Not Ranked,2.9/100,adult,"Mount Sinai Hospital, New York"
+Pediatrics: Cardiology & Heart Surgery,#45,51.6/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Diabetes & Endocrinology,#38,70.4/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Gastroenterology & GI Surgery,#27,67.7/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Nephrology,#29,70.4/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Neurology & Neurosurgery,#30,73.0/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Pulmonology,#21,62.2/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Urology,#21,70.2/100,children,"Mount Sinai Hospital, New York"
+Pediatrics: Cancer,Not Ranked,NA,children,"Mount Sinai Hospital, New York"
+Pediatrics: Neonatology,Not Ranked,NA,children,"Mount Sinai Hospital, New York"
+Pediatrics: Orthopedics,Not Ranked,NA,children,"Mount Sinai Hospital, New York"
+Cancer,#40,60.9/100,adult,"Duke University Hospital, Durham, N.C."
+Cardiology & Heart Surgery,#5,75.7/100,adult,"Duke University Hospital, Durham, N.C."
+Diabetes & Endocrinology,#18,66.9/100,adult,"Duke University Hospital, Durham, N.C."
+Gastroenterology & GI Surgery,#38,63.2/100,adult,"Duke University Hospital, Durham, N.C."
+Geriatrics,#35,67.9/100,adult,"Duke University Hospital, Durham, N.C."
+Gynecology,#23,79.3/100,adult,"Duke University Hospital, Durham, N.C."
+Nephrology,#28,75.1/100,adult,"Duke University Hospital, Durham, N.C."
+Neurology & Neurosurgery,#33,63.0/100,adult,"Duke University Hospital, Durham, N.C."
+Ophthalmology,#6,13.5/100,adult,"Duke University Hospital, Durham, N.C."
+Orthopedics,#15,63.2/100,adult,"Duke University Hospital, Durham, N.C."
+Pulmonology,#5,77.3/100,adult,"Duke University Hospital, Durham, N.C."
+Rheumatology,#13,7.5/100,adult,"Duke University Hospital, Durham, N.C."
+Urology,#9,80.9/100,adult,"Duke University Hospital, Durham, N.C."
+"Ear, Nose & Throat",Not Ranked,62.4/100,adult,"Duke University Hospital, Durham, N.C."
+Psychiatry,Not Ranked,1.9/100,adult,"Duke University Hospital, Durham, N.C."
+Pediatrics: Cancer,#25,69.0/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Cardiology & Heart Surgery,#22,67.1/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Diabetes & Endocrinology,#26,73.1/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Gastroenterology & GI Surgery,#36,61.2/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Neonatology,#15,78.8/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Nephrology,#37,67.4/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Neurology & Neurosurgery,#25,74.1/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Orthopedics,#40,68.2/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Pulmonology,#48,47.8/100,children,"Duke University Hospital, Durham, N.C."
+Pediatrics: Urology,#50,54.4/100,children,"Duke University Hospital, Durham, N.C."
+Cardiology & Heart Surgery,#10,72.5/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Diabetes & Endocrinology,#14,67.8/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+"Ear, Nose & Throat",#34,72.3/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Gastroenterology & GI Surgery,#9,70.8/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Geriatrics,#24,72.4/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Gynecology,#15,81.3/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Nephrology,#13,79.5/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Neurology & Neurosurgery,#18,69.5/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Orthopedics,#11,64.7/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Pulmonology,#36,69.0/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Urology,#25,72.6/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Cancer,High Performing,56.4/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Rheumatology,High Performing,3.7/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Rehabilitation,Not Ranked,2.0/100,adult,"Cedars-Sinai Medical Center, Los Angeles"
+Cancer,#24,64.8/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Cardiology & Heart Surgery,#22,64.6/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+"Ear, Nose & Throat",#8,86.1/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Gastroenterology & GI Surgery,#23,66.1/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Geriatrics,#47,64.9/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Gynecology,#14,81.4/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Nephrology,#23,75.9/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Neurology & Neurosurgery,#32,63.1/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Ophthalmology,#9,8.3/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pulmonology,#16,73.2/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Rheumatology,#14,6.0/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Urology,#12,79.2/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Diabetes & Endocrinology,High Performing,61.1/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Orthopedics,High Performing,50.4/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Rehabilitation,High Performing,4.5/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Psychiatry,Not Ranked,1.8/100,adult,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Cancer,#40,60.7/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Cardiology & Heart Surgery,#7,81.7/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Gastroenterology & GI Surgery,#26,67.9/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Neonatology,#33,68.9/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Nephrology,#23,71.8/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Neurology & Neurosurgery,#36,69.0/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Orthopedics,#43,67.1/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Pulmonology,#31,55.3/100,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Diabetes & Endocrinology,Not Ranked,NA,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Pediatrics: Urology,Not Ranked,NA,children,"University of Michigan Hospitals and Health Centers, Ann Arbor"
+Cancer,#44,60.1/100,adult,Houston Methodist Hospital
+Cardiology & Heart Surgery,#21,65.0/100,adult,Houston Methodist Hospital
+Diabetes & Endocrinology,#8,71.5/100,adult,Houston Methodist Hospital
+Gastroenterology & GI Surgery,#11,70.4/100,adult,Houston Methodist Hospital
+Geriatrics,#19,74.7/100,adult,Houston Methodist Hospital
+Nephrology,#38,72.7/100,adult,Houston Methodist Hospital
+Neurology & Neurosurgery,#17,70.0/100,adult,Houston Methodist Hospital
+Orthopedics,#23,60.9/100,adult,Houston Methodist Hospital
+Pulmonology,#17,72.9/100,adult,Houston Methodist Hospital
+Urology,#32,71.8/100,adult,Houston Methodist Hospital
+"Ear, Nose & Throat",Not Ranked,63.2/100,adult,Houston Methodist Hospital
+Gynecology,Not Ranked,71.3/100,adult,Houston Methodist Hospital
+Ophthalmology,Not Ranked,2.0/100,adult,Houston Methodist Hospital
+Cancer,#22,65.1/100,adult,"University of Colorado Hospital, Aurora"
+Cardiology & Heart Surgery,#42,58.8/100,adult,"University of Colorado Hospital, Aurora"
+Diabetes & Endocrinology,#14,67.8/100,adult,"University of Colorado Hospital, Aurora"
+Gastroenterology & GI Surgery,#22,66.2/100,adult,"University of Colorado Hospital, Aurora"
+Geriatrics,#36,67.7/100,adult,"University of Colorado Hospital, Aurora"
+Gynecology,#32,77.8/100,adult,"University of Colorado Hospital, Aurora"
+Nephrology,#15,78.9/100,adult,"University of Colorado Hospital, Aurora"
+Neurology & Neurosurgery,#43,60.8/100,adult,"University of Colorado Hospital, Aurora"
+Orthopedics,#42,56.6/100,adult,"University of Colorado Hospital, Aurora"
+Pulmonology,#2,94.4/100,adult,"University of Colorado Hospital, Aurora"
+Rheumatology,High Performing,3.3/100,adult,"University of Colorado Hospital, Aurora"
+Urology,High Performing,68.0/100,adult,"University of Colorado Hospital, Aurora"
+"Ear, Nose & Throat",Not Ranked,65.7/100,adult,"University of Colorado Hospital, Aurora"
+Rehabilitation,Not Ranked,1.6/100,adult,"University of Colorado Hospital, Aurora"
